@@ -1,4 +1,4 @@
-#Privacy Policy for Broken X
+# Privacy Policy for Broken X
 Last updated: [Date]
 
 1. Introduction
@@ -35,7 +35,7 @@ By using Broken X, you agree to this Privacy Policy.
 
 
 
-Terms of Service for Broken X
+# Terms of Service for Broken X
 Last updated: [Date]
 
 1. Acceptance of Terms
